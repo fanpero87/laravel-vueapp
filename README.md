@@ -1,6 +1,6 @@
 ## Basic WebApp using Vue
 
-[Tutorial] (https://blog.pusher.com/why-vuejs-laravel/)
+Click [here](https://blog.pusher.com/why-vuejs-laravel/) to check the tutorial that I used for this app.
 
 # Install Vue to the Project
 Run:
